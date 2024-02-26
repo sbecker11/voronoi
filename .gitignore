@@ -1,8 +1,1 @@
-/.vscode
-/README.md
-/make-readme.py
-/make-voronoi-images.py
-/requirements.txt
-/voronoi-0.png
-/voronoi-1.png
-/voronoi-2.png
+venv/
